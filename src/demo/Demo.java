@@ -19,6 +19,9 @@ public class Demo {
         System.out.println("");
         System.out.println("Heeloo thầy nguyên");
         System.out.println("abc");
+        
+        System.out.println("xyz");
+        System.out.println("ybs");
     }
     
 }
