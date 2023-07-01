@@ -24,6 +24,8 @@ public class Demo {
         System.out.println("ybs");
         System.out.println("xin chao");
         System.out.println("xin chao");
+        
+        System.out.println("xin chao");
 
     }
     
